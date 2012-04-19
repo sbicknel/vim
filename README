@@ -1,0 +1,3 @@
+This is where I store my Vim configuration. I mainly use this to synchronize between my Linux and Windows installations, but you are welcome to use anything you find useful.
+
+I use Vim mainly for writing prose, but also write shell scripts with it. I keep the use of plug-ins to a minimum.
